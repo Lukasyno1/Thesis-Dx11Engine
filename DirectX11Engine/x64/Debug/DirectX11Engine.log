@@ -1,0 +1,30 @@
+﻿  Engine.cpp
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\engine.cpp(85): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\engine.cpp(381): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\engine.cpp(382): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Game.cpp
+  Main.cpp
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\main.cpp(30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\main.cpp(36): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\main.cpp(42): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note: see declaration of 'freopen'
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\main.cpp(43): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note: see declaration of 'freopen'
+  Platform.cpp
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\platform.cpp(9): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\platform.cpp(15): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\platform.cpp(16): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\platform.cpp(40): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\platform.cpp(43): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\platform.cpp(46): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+  Player.cpp
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\player.cpp(7): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\player.cpp(13): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  Pool.cpp
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\pool.cpp(6): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  Timer.cpp
+  Trophy.cpp
+c:\users\lukasyno\desktop\directx11-engine-master\directx11engine\trophy.cpp(8): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  Window.cpp
+  Generating Code...
+  DirectX11Engine.vcxproj -> C:\Users\Lukasyno\Desktop\DirectX11-Engine-master\x64\Debug\Game.exe
